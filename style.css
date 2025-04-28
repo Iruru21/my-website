@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #FF90BB;
+    background-color: #626F47;
     color: #ffffff;
     text-align: center;
     padding: 20px;
@@ -45,7 +45,7 @@ header p {
 .quote {
     font-size: 1.3em;
     font-weight: bold;
-    color: #ffcc00;
+    color: #A4B465;
     max-width: 600px;
     margin: 0 auto;
 }
